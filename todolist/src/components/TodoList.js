@@ -16,9 +16,6 @@ function TodoList() {
         console.log(...todos)
     }
 
-
-
-
   return (
     <>
         <h1>What's the Plan for Today?</h1>
